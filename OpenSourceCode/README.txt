@@ -8,3 +8,6 @@ WebViewCacheModule-master
 4.使用CompressUtil图片压缩
 5.使用com.yancy.gallerypick库来呈现选取本地图片及展示
 
+update time 2017-8-9
+PhotosWallDemo
+1.LruCache + DiskLruCache
